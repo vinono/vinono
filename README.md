@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vinono/vinono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nice to meet you, stranger. 🌸
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>“Out of eight billion souls drifting across the digital wild,<br/>thank you for pausing at my quiet corner.”</em>
+</p>
+
+<br />
+
+<img src="./asset/quiet_flower.jpg" width="88%" style="border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" alt="A quiet pink flower blooming in the wild" />
+
+
+</div>
+
+---
+
+### 🌿   Drifting & Growing
+
+> *“Amidst the endless noise of the internet, here is a small patch of soil where things grow slowly and deliberately.”*
+
+
+<br />
+
+<div align="center">
+  <sub>✨ <em>“May the stars light your road ahead, stranger.”</em> ✨</sub>
+</div>
